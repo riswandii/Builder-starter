@@ -1,0 +1,13 @@
+{
+  "name": "builder-starter",
+  "version": "1.0.0",
+  "description": "Simple Base mainnet reader using ethers.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}
