@@ -16,3 +16,6 @@ Simple Node.js script to interact with the Base network using ethers.js.
 ```bash
 npm install
 node index.js
+
+## Additional Script
+- `checkBalance.js` — Check ETH balance and network info on Base Sepolia
