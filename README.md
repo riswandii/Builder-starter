@@ -1,12 +1,18 @@
 # Base Builder Starter
 
-Simple script to read Base mainnet data using ethers.js.
+Simple Node.js script to interact with the Base network using ethers.js.
 
-## Tech
+## Features
+- Connects to Base Sepolia RPC
+- Fetches latest block number
+- Demonstrates basic on-chain interaction
+
+## Tech Stack
 - Node.js
-- Ethers.js
-- Base Mainnet RPC
+- ethers.js v6
+- Base Sepolia
 
-## Usage
+## How to Run
 ```bash
-node index.js# Builder-starter
+npm install
+node index.js
